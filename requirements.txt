@@ -1,0 +1,6 @@
+pandas
+matplotlib
+numpy
+nltk
+scikit-learn
+nltk==3.6.5
